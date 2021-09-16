@@ -1,5 +1,7 @@
 ## ggHack Frontend
 
+Demo video: https://youtu.be/NLjX9BuPFlI
+
 ### Setup
 1. install Flutter [here](https://flutter.dev/docs/get-started/install)
 2. run **flutter doctor** to check for any missing dependecies
